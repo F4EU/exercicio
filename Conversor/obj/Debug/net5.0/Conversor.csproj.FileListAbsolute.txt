@@ -1,0 +1,16 @@
+C:\Users\facec.lab04\source\repos\Facec.exercicio\Conversor\bin\Debug\net5.0\Conversor.exe
+C:\Users\facec.lab04\source\repos\Facec.exercicio\Conversor\bin\Debug\net5.0\Conversor.deps.json
+C:\Users\facec.lab04\source\repos\Facec.exercicio\Conversor\bin\Debug\net5.0\Conversor.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\Facec.exercicio\Conversor\bin\Debug\net5.0\Conversor.runtimeconfig.dev.json
+C:\Users\facec.lab04\source\repos\Facec.exercicio\Conversor\bin\Debug\net5.0\Conversor.dll
+C:\Users\facec.lab04\source\repos\Facec.exercicio\Conversor\bin\Debug\net5.0\ref\Conversor.dll
+C:\Users\facec.lab04\source\repos\Facec.exercicio\Conversor\bin\Debug\net5.0\Conversor.pdb
+C:\Users\facec.lab04\source\repos\Facec.exercicio\Conversor\obj\Debug\net5.0\Conversor.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Facec.exercicio\Conversor\obj\Debug\net5.0\Conversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\Facec.exercicio\Conversor\obj\Debug\net5.0\Conversor.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\Facec.exercicio\Conversor\obj\Debug\net5.0\Conversor.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\Facec.exercicio\Conversor\obj\Debug\net5.0\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Facec.exercicio\Conversor\obj\Debug\net5.0\Conversor.dll
+C:\Users\facec.lab04\source\repos\Facec.exercicio\Conversor\obj\Debug\net5.0\ref\Conversor.dll
+C:\Users\facec.lab04\source\repos\Facec.exercicio\Conversor\obj\Debug\net5.0\Conversor.pdb
+C:\Users\facec.lab04\source\repos\Facec.exercicio\Conversor\obj\Debug\net5.0\Conversor.genruntimeconfig.cache
